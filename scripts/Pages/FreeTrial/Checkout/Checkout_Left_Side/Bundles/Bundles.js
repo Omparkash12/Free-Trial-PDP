@@ -102,11 +102,11 @@ const Coffee = () => {
                             </div>
                         </div>
 
-                        <div className="desc_data_2 quantity_sector">
+                        {/* <div className="desc_data_2 quantity_sector">
                             <button onClick={decrement} className="minus">-</button>
                             <input className='quantity' type="number" value={quantity} />
                             <button onClick={increment} className="plus">+</button>
-                        </div>
+                        </div> */}
                     </div>
                 </div>
 
@@ -128,11 +128,11 @@ const Coffee = () => {
                             </div>
                         </div>
 
-                        <div className="desc_data_2 quantity_sector">
+                        {/* <div className="desc_data_2 quantity_sector">
                             <button onClick={decrement_1} className="minus">-</button>
                             <input className='quantity' type="number" value={quantity_1} />
                             <button onClick={increment_1} className="plus">+</button>
-                        </div>
+                        </div> */}
                     </div>
                 </div>
 
@@ -153,11 +153,11 @@ const Coffee = () => {
                                 <h6>$145</h6>
                             </div>
                         </div>
-                        <div className="desc_data_2 quantity_sector">
+                        {/* <div className="desc_data_2 quantity_sector">
                             <button onClick={decrement_2} className="minus">-</button>
                             <input className='quantity' type="number" value={quantity_2} />
                             <button onClick={increment_2} className="plus">+</button>
-                        </div>
+                        </div> */}
                     </div>
                 </div>
 
@@ -178,11 +178,11 @@ const Coffee = () => {
                                 <h6>$119</h6>
                             </div>
                         </div>
-                        <div className="desc_data_2 quantity_sector">
+                        {/* <div className="desc_data_2 quantity_sector">
                             <button onClick={decrement_3} className="minus">-</button>
                             <input className='quantity' type="number" value={quantity_3} />
                             <button onClick={increment_3} className="plus">+</button>
-                        </div>
+                        </div> */}
                     </div>
                 </div>
 
@@ -204,11 +204,11 @@ const Coffee = () => {
                             </div>
                         </div>
 
-                        <div className="desc_data_2 quantity_sector">
+                        {/* <div className="desc_data_2 quantity_sector">
                             <button onClick={decrement_4} className="minus">-</button>
                             <input className='quantity' type="number" value={quantity_4} />
                             <button onClick={increment_4} className="plus">+</button>
-                        </div>
+                        </div> */}
                     </div>
                 </div>
 

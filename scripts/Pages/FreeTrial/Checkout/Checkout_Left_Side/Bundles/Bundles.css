@@ -45,7 +45,7 @@
     display: flex;
     align-items: center;
     justify-content: center;
-    min-width: 190px;
+    width: 50%;
 }
 
 .coffee_section .product_price p {
@@ -64,7 +64,7 @@
     margin: 0;
     position: absolute;
     top: -8px;
-    left: 50px;
+    left: 68px;
     display: flex;
     align-items: center;
     justify-content: center;
@@ -165,7 +165,7 @@
 .coffee_section .desc_image {
     background: #fff;
     border-radius: 3px;
-    width: 15%;
+    width: 20%;
     /* height: 90px; */
     display: flex;
     justify-content: center;
@@ -193,7 +193,7 @@
 
 .coffee_section .desc_data {
     display: flex;
-    width: 85%;
+    width: 80%;
 }
 
 .coffee_section .coffee_desc {
@@ -209,15 +209,15 @@
 .coffee_section .desc_data_1 {
     padding: 0;
     display: flex;
-    width: 75%;
+    width: 100%;
 }
 
 .coffee_section .smallest_image {
     display: flex;
     flex-wrap: wrap;
     flex-direction: column;
-    min-width: 185px;
-    padding-left: 16px;
+    width: 50%;
+    align-items: center;
 }
 
 .coffee_section .coffee_data {
